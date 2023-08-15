@@ -1,5 +1,8 @@
 _repo: Roy-b-A-tale-in-the-days-of-Sir-John-Moore_71323
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Giberne, Agnes
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47772
     wikipedia: https://en.wikipedia.org/wiki/Agnes_Giberne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71323#Roy-b-A-tale-in-the-days-of-Sir-John-Moore
 gutenberg_issued: '2023-08-02'
 identifiers:
   gutenberg: '71323'
